@@ -1,4 +1,4 @@
-package datatypes;
+package learning;
 
 public class PrimitiveDataTypes {
     // boolean datatype (true or false)

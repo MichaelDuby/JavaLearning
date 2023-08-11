@@ -1,4 +1,4 @@
-package helloworld;
+package learning;
 
 public class HelloWorld {
     public void sayHello() {
