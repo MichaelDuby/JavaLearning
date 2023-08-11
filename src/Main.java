@@ -1,4 +1,4 @@
-import helloworld.HelloWorld;
+import learning.HelloWorld;
 
 public class Main {
     public static void main(String[] args) {
