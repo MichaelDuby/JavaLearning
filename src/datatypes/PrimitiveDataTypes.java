@@ -1,6 +1,6 @@
-package DataTypes;
+package datatypes;
 
-public class PrimitveDataTypes {
+public class PrimitiveDataTypes {
     // boolean datatype (true or false)
     boolean bool = true;
 
